@@ -1,0 +1,5 @@
+
+
+DEFAULT_ALPHA:int = 255
+
+BOX_SIZE = 32
